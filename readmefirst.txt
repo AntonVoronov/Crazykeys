@@ -1,0 +1,1 @@
+Before running, please make sure to unzip the keyboard library and place it next to the python file
